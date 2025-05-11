@@ -1,0 +1,33 @@
+adb devices
+adb install "appname.apk"
+adb
+
+android studio - to create devices to run scripts
+appium server - to connect scripts with the devices
+intellij - to write the scripts
+
+appium
+java
+maven
+selenium
+commons io
+
+there are 2 things which are very important in application
+app package
+app activity
+
+how to launch application using appium
+desired capabilities -
+URL -
+
+UIAutomatorViewer is used to locate elements in mobile - it is a batch file
+under user - appdata - local - android - sdk - tools - bin - uiatomatorviewer
+
+to locate elements we can use xpath, css, resource id, class etc
+
+//*[@id='value']
+
+in selenium - //*[text()='abc']
+in appium - //*[@text='abc']
+
+
