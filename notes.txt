@@ -30,4 +30,8 @@ to locate elements we can use xpath, css, resource id, class etc
 in selenium - //*[text()='abc']
 in appium - //*[@text='abc']
 
+when identifying the locators, keep the screen open in the phone
+open batch file UIautomatorveiwer and click on obtain screenshot option
+identify locators using attributes
+in POM, use appiumfielddecorator instead of just webdriver to initialize all the web elements
 
